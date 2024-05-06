@@ -7,23 +7,23 @@
     "type": "git"
   },
   "type": "module",
-  "main": "./dist/reactjs-social-login.js",
-  "browser": "./dist/reactjs-social-login.umd.js",
-  "umd:main": "./dist/reactjs-social-login.umd.js",
-  "jsnext:main": "./dist/reactjs-social-login.modern.js",
-  "module": "./dist/reactjs-social-login.modern.js",
+  "main": "./dist/reactjs-shubham.js",
+  "browser": "./dist/reactjs-shubham.umd.js",
+  "umd:main": "./dist/reactjs-shubham.umd.js",
+  "jsnext:main": "./dist/reactjs-shubham.modern.js",
+  "module": "./dist/reactjs-shubham.modern.js",
   "source": "./src/index.tsx",
   "syntax": {
-    "esmodules": "./dist/reactjs-social-login.modern.js"
+    "esmodules": "./dist/reactjs-shubham.modern.js"
   },
   "types": "./dist/index.d.ts",
   "typings": "./dist/index.d.ts",
   "exports": {
     ".": {
-      "browser": "./dist/reactjs-social-login.modern.js",
-      "umd": "./dist/reactjs-social-login.umd.js",
-      "import": "./dist/reactjs-social-login.modern.js",
-      "require": "./dist/reactjs-social-login.js"
+      "browser": "./dist/reactjs-shubham.modern.js",
+      "umd": "./dist/reactjs-shubham.umd.js",
+      "import": "./dist/reactjs-shubham.modern.js",
+      "require": "./dist/reactjs-shubham.js"
     }
   },
   "engines": {

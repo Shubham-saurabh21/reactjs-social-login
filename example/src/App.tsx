@@ -13,7 +13,7 @@ import {
   LoginSocialTwitter,
   LoginSocialApple,
   IResolveParams,
-} from 'reactjs-social-login';
+} from 'reactjs-shubham';
 
 import {
   FacebookLoginButton,

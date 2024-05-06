@@ -1,3 +1,3 @@
 /// <reference types="react-scripts" />
 
-// declare module 'reactjs-social-login'
+// declare module 'reactjs-shubham'
