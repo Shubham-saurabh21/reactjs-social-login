@@ -3,10 +3,8 @@
   "version": "2.6.3",
   "description": "Group social login for ReactJS",
   "author": "Nguyen Manh Cuong ",
-  "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/cuongdevjs/reactjs-social-login"
+    "type": "git"
   },
   "type": "module",
   "main": "./dist/reactjs-social-login.js",
